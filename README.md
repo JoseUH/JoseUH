@@ -1,6 +1,5 @@
 
-<img width="250px" src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif-src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif" style="max-width: 100%;">
-
+https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif
 ### Hi👋,  I'm Jose
 
 <!--
