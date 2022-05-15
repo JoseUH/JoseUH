@@ -1,7 +1,5 @@
 
-
-https://user-images.githubusercontent.com/103496576/168487042-765dbdc4-3081-40e4-9ade-379418995df2.mp4
-
+![463068127e83c14624316e450b477b93](https://user-images.githubusercontent.com/103496576/168487201-fa503161-c3e3-407a-aed0-ebbe424c04e8.gif)
 
 ### Hi👋,  I'm Jose
 
