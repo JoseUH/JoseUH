@@ -10,7 +10,7 @@
 <h2 align="center">💻 I’m learning Full Stack Developer </h2>
  
  <h2 align="center">👓 Learning Js,Css and Html </h2>
- <h2 align="center">🧗‍♂️ mens sana in corpore sano</h2>
+ <h2 align="center">🧗‍♂️ Mens sana in corpore sano</h2>
 
  
 
