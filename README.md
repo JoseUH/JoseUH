@@ -1,8 +1,5 @@
 
-<p align="center">https://user-images.githubusercontent.com/103496576/168487872-49d7fab1-cb24-40a3-b387-bb2ede30ab47.gif<img />
- </p>
-
-<img align="center" src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif" alt="home" />
+<img width="250px" src="https://camo.githubusercontent.com/be6661ea638ac7f0153dfdde0ae87ad103fdb29b92fbaaac32194bedbac0736f/68747470733a2f2f692e696d6775722e636f6d2f3939425a3849552e676966" data-canonical-src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif" style="max-width: 100%;">
 
 ### Hi👋,  I'm Jose
 
