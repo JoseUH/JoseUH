@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif" alt="home" /></p>
+<img align="center" src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif" alt="home" />
 
 ### Hi👋,  I'm Jose
 
