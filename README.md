@@ -1,5 +1,7 @@
 
-https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif
+<img width="250px" src="https://user-images.githubusercontent.com/103496576/168488244-73a3ae49-903d-47b2-8518-f0ddaaa3b166.gif)
+" data-canonical-src="https://statics.vrutal.com/m/4630/463068127e83c14624316e450b477b93.gif" style="max-width: 100%;">
+
 ### Hi👋,  I'm Jose
 
 <!--
