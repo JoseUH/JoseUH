@@ -28,6 +28,14 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 </p>
 <br />
+ 
+<p align="center">
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseUH&show_icons=true&hide_border=true&theme=white" alt="JoseUH" />
+ 
+</p>
+
+<br />
 
 
 </div>
@@ -37,16 +45,7 @@
  
 </p>
 
- <br />
  
-<p align="center">
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseUH&show_icons=true&hide_border=true&theme=white" alt="JoseUH" />
- 
-</p>
-
-
-
 
 <br />
 
