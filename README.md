@@ -1,13 +1,16 @@
 
-
-<h1 align="center">Hi, I'm Jose. 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Jose....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <div align="center"><img width="500px" src="https://user-images.githubusercontent.com/103496576/173243597-ada26875-c44b-4577-b92c-10b76032c950.gif" /></div>
 
 
 <br />
 <div align="center">
  
-<h2 align="center">💻 I’m learning Full Stack Developer </h2>
+<h2 align="center">💻 I’m Full Stack Developer </h2>
  
  <h2 align="center">👓 Learning Js,Css and Html </h2>
  <h2 align="center">🧗‍♂️ Mens sana in corpore sano</h2>
@@ -32,23 +35,8 @@
 </p>
 <br />
  
-<p align="center">
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseUH&show_icons=true&hide_border=true&theme=white" alt="JoseUH" />
- 
-</p>
-
-<br />
-
-
-</div>
-<p align="center">
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseUH&show_icons=true&hide_border=true&theme=white" alt="JoseUH" />
- 
-</p>
-
- 
+ |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseUH&bg_color=30,e96443,904e95&layout=compact&title_color=fff&text_color=fff" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseUH&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> |
+| ------------- | ------------- |
 
 <br />
 
