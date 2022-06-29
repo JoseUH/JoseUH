@@ -12,7 +12,7 @@
  
 <h2 align="center">💻 I’m Full Stack Developer </h2>
  
- <h2 align="center">👓 we continuously learn with each step, exploring the limits of our possibilities and receiving each event as something new.</h2>
+ <h2 align="center">👓 I continuously learn with each step, exploring the limits of our possibilities and receiving each event as something new.</h2>
  <h2 align="center">🧗‍♂️ Mens sana in corpore sano</h2>
 </div>
 <h3 align="center">Connect with me:</h3>
